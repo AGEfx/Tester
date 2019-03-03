@@ -1,0 +1,10 @@
+<resources>
+    <string name="input_id">Введите id теста</string>
+    <string name="input_name">Введите название теста </string>
+    <string name="app_name">Tester</string>
+    <string name="start_test_btn">Начать тест</string>
+    <string name="create_test_btn">Создать тест</string>
+    <string name="create">Создать</string>
+    <string name="start">Начать</string>
+    <string name="get_id">Введите id теста</string>
+</resources>
